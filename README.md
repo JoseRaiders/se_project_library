@@ -9,3 +9,7 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
+
+## Project
+
+- [GitHub Page to this project](https://joseraiders.github.io/se_project_library/)
